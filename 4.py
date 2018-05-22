@@ -12,20 +12,7 @@ def restart_program():
     os.execl(python, python, * sys.argv)
 def NOTIFIED_INVITE_INTO_GROUP(op):
     try:
-        if cl.profile.mid in op.param3:
-            if op.param2 in admin:
-                print("[13] NOTIFIED_INVITE_INTO_GROUP")
-                cl.acceptGroupInvitation(op.param1)
-                cl.sendMessage(op.param1,"✿千本桜❀帝国の滅殺です(^^♪/レム❄帝国主义の破壊/末日に栄光あれ☆/天皇軍に栄光あれ/★天選に荣光あれ☆/꧁༻❦神一族に栄光あれฺฺ❦༺꧂/〘善席〙破壊降臨∆/❄バブル帝国が破壊する❄")
-                group = cl.getGroup(op.param1)
-                group.name = "レム❄帝国主义の破壊"
-                cl.updateGroup(group)
-                for g in group.members:
-                    if g.mid in admin:
-                        print('pass')
-                    else:
-                        cl.kickoutFromGroup(op.param1, [g.mid])
-                        time.sleep(0.5)
+        print("[13] NOTIFIED_INVITE_INTO_GROUP")
     except Exception as e:
         cl.log("[訊息錯誤]" + str(e))
 tracer.addOpInterrupt(13, NOTIFIED_INVITE_INTO_GROUP)
