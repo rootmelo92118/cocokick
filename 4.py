@@ -3,7 +3,7 @@ from linepy import *
 from datetime import datetime
 from time import sleep
 import time, datetime, random ,sys, re, string, os, json, codecs, timeit
-cl = LINE('EtizRuKqZaqYbBeiOJv6.5DosnUnAyvWEKXtHvj5wbG.T/69wAW96o7mW5ZWr4Lu6mxHTEImnXLwHdVhO+Z1sxA=')
+cl = LINE('LINE帳號','LINE密碼')
 cl.log("Auth Token : " + str(cl.authToken))
 tracer = OEPoll(cl)
 readOpen = codecs.open("read.json","r","utf-8")
