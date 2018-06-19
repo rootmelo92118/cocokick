@@ -14,4 +14,4 @@ This software using GPL v3.0
     python main.py
 
 ## Author
-SuperSonic (https://randychen.tk) Fork from CoCo(https://github.com/LoveLoveCoCo/CoCoKickBot.git)
+[SuperSonic](https://randychen.tk) Fork from [CoCo](https://github.com/LoveLoveCoCo/CoCoKickBot.git)
