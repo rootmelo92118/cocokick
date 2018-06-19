@@ -1,20 +1,14 @@
 {
-    "JoinText": {
-        "c665ae1200148089b120bf996d0f48985": true,
-        "cfd63a73895fd9f02c61fe39016dd76cf": true
-    },
-    "LeaveText": {
-        "c665ae1200148089b120bf996d0f48985": true,
-        "cfd63a73895fd9f02c61fe39016dd76cf": true
-    },
-    "LikeText": "Auto like By.http://line.me/ti/p/1MRX_Gjbmv",
+    "JoinText": {},
+    "LeaveText": {},
+    "LikeText": "Auto Like 自動按讚",
     "autoAdd": true,
     "autoJoin": true,
     "autoJoinTicket": true,
     "autoLeave": false,
     "autoLike": true,
     "autoRead": false,
-    "cName": "天選の多功能機器•主機➸萌玥☆",
+    "cName": "多功能非官方機器人",
     "canceljoin": false,
     "cancelprotect": false,
     "changeGroupPicture": {},

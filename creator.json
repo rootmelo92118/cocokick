@@ -1,50 +1,8 @@
 {
     "Contect": {},
-    "Max": {
-        "u28d781fa3ba9783fd5144390352b0c24": true
-    },
-    "Mids": {
-        "u00d0e3684d203a77d15f2d5489f9df41": true,
-        "u0abaf65c6e1587d05848d285778dc35c": true,
-        "u1062e71b6c2ca500b5553e63f0502826": true,
-        "u17dd300568da75eef185af17397d175b": true,
-        "u1a0c94d418512e2da2068ec59b3286f8": true,
-        "u1eeda6c923a90776d2dada705b8f0719": true,
-        "u237595d6ae787a3070cd32a19b90ca17": true,
-        "u28d781fa3ba9783fd5144390352b0c24": true,
-        "u2b37602c4f9f8d54917de47b09749130": true,
-        "u300788d3eca0c6a1aacc3282d5608c08": true,
-        "u38915080d81e726adf0d3e14768e0fff": true,
-        "u4923457f86af7435f3d8ad76a2a2dd52": true,
-        "u9545690c9ce38c5c0dde40d6e8085ba1": true,
-        "u989138703b60eebbf7e46c4266436dba": true,
-        "u993f768f416ab5abbb551153ff8ac38e": true,
-        "u9ddc9a83c03ccd485ff2ba699067c82a": true,
-        "uabaa258fc9f6e5305458e81448b80f25": true,
-        "ud318989ad0675e76e51c7ba8938f6111": true,
-        "ud797f847452440698a90e3cf37cb8c96": true,
-        "uede897405fc1a4a1cc11d314dd81b7f7": true,
-        "uee60b0ba404caaf204298574ea4dec1e": true,
-        "uf87672295eeef310c67d5ce81bbf189d": true
-    },
-    "lv1": {
-        "u00d0e3684d203a77d15f2d5489f9df41": true,
-        "u0a5bc9ffcbd7e75a1ee5c53684ed86c3": true,
-        "u237595d6ae787a3070cd32a19b90ca17": true,
-        "u2b37602c4f9f8d54917de47b09749130": true,
-        "u35826ab2811a8474ef324f34a6f8a0ee": true,
-        "u4923457f86af7435f3d8ad76a2a2dd52": true,
-        "u5d8bb3c5a1342d4dcf3cbb9c1bb2d2a7": true,
-        "u67f1283db3cb9a8d694b2b0746cea56e": true,
-        "u96597cb3a0934c93e0736c413cf28aa9": true,
-        "ubfd7f98515e5b1defb4594fe61362b29": true,
-        "uc04580871ff911ca9c55b866836a05c9": true,
-        "ud797f847452440698a90e3cf37cb8c96": true,
-        "ue5c395168da59b2e0c46a2b6d0a5d0db": true,
-        "uf119b7da7209a75d0c0713019067f153": true,
-        "uf5768dd477f04b109057d477bd029e8a": true,
-        "uf8658b92e7d79f11083d5354d1ba547b": true
-    },
+    "Max": {},
+    "Mids": {},
+    "lv1": {},
     "lv2": {},
     "time": {}
 }
